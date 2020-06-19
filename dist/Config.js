@@ -1,0 +1,6 @@
+"use strict";
+// Change settings here
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.progressmsg = void 0;
+exports.progressmsg = "Fetching data...";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ29uZmlnLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vc3JjL0NvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsdUJBQXVCOzs7QUFFWixRQUFBLFdBQVcsR0FBVyxrQkFBa0IsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbIi8vIENoYW5nZSBzZXR0aW5ncyBoZXJlXG5cbmV4cG9ydCBsZXQgcHJvZ3Jlc3Ntc2c6IHN0cmluZyA9IFwiRmV0Y2hpbmcgZGF0YS4uLlwiIl19
