@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[![Run on Repl.it](https://repl.it/badge/github/DanTechBoy/covidtracker)](https://repl.it/github/DanTechBoy/covidtracker)
+
 > A simple CLI coronavirus tracker written in Node.js
 
 ## Install
